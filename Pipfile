@@ -8,6 +8,7 @@ tensorboard = "*"
 jupyterlab = "*"
 
 [packages]
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
